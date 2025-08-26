@@ -1,8 +1,8 @@
 # MIZU (IoT Satellite for Sustainable Agriculture) 🛰️
 MIZU is project that was build during CLTP training in Japana in August, 2025.
 
-## What is CLPT?
-CLPT stands for the CanSat Leader Training Program. It is an intensive hands-on training program organized by UNISEC (University Space Engineering Consortium), Japan.
+## What is CLTP?
+CLTP stands for the CanSat Leader Training Program. It is an intensive hands-on training program organized by UNISEC (University Space Engineering Consortium), Japan.
 
 The program is designed to train trainers—meaning participants not only learn how to design, build, test, and launch small educational satellites (CanSats), but also how to teach others to do the same in their own countries or institutions.
 
