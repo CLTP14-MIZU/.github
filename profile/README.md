@@ -8,13 +8,30 @@ The program is designed to train trainers—meaning participants not only learn 
 
 The 14th round of this training is coined as CLPT14 took place at Nihon University between 19 to 30 August 2025. This round of training was centred around the HEPTA-SAT training KIT  - a hands-on small satellite training kit developed by Professor Masahiko Yamazaki at Nihon University, in Japan.
 
-# Training Method
+## Training Method
 This was a competnace based training with large percentage of time dedicated to the hands-on. The training was divided into three main parts. The first part involved  participants completing the six (6) practical labs in the first three days. The second part was project based learning where four teams were formed and each team developed a mission, desinged, implemented and tested/verified the satellite project. This included spending a full day sourcing the components for the mission from various shops in Tokyo. The last part was Teaching Practice where all participants were involved in training the students for two days.
 
-# MIZU Satellite  Mission
--- TODO: @shohei kindly add the description of our satellite mission here
+## MIZU Satellite Mission
 
-# Our Team
+MIZU is a small IoT satellite mission that provides near‑real‑time weather data including the following:
+- ambient temperature,
+- humidity,
+- soil temperature,
+- soil moisture,
+- wind sensor,
+
+The data collected from these sensors is aggregated, analysed and could be used to improve the hydrolofical models  to predict the water levels and  microclimate data to support precision agriculture. The data could also be used in data‑driven irrigation and input management and therefore MIZU helps reduce water use, lower fertilizer runoff, and improve yields for smallholder farmers. 
+
+MIZU responds to the Global Sustainable Development Goals, namely:
+- Goal 2 — Zero Hunger: increase agricultural productivity and resilience  
+- Goal 6 — Clean Water and Sanitation: optimize water use and reduce contamination  
+- Goal 13 — Climate Action: monitor weather and support adaptation  
+- Goal 15 — Life on Land: promote sustainable land management  
+- Goal 17 — Partnerships for the Goals: foster collaboration between farmers, researchers, and policymakers
+
+The mission demonstrates how accessible small‑satellite technology can empower local decision‑making for sustainable agriculture.
+
+## Our Team
 - Phanish Chandra
 - Ojas Jha
 - Shohei Aoki
@@ -34,5 +51,3 @@ Thanks to everyone who helps build MIZU. Add your GitHub profile by opening a PR
     <a href="https://github.com/OjasJha" title="OjasJha"><img src="https://avatars.githubusercontent.com/OjasJha?s=96" width="96" height="96" alt="OjasJha" /></a>
     <a href="https://github.com/jwmdev" title="jwmdev"><img src="https://avatars.githubusercontent.com/jwmdev?s=96" width="96" height="96" alt="jwmdev" /></a>
 </p>
-
-For an automated contributor graph, visit the repository's "Contributors" page or see CONTRIBUTING.md for instructions.
