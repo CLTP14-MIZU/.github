@@ -1,10 +1,34 @@
-## Welcome to MIZU (IoT Satellite for Sustainable Agriculture) 🛰️
+# MIZU (IoT Satellite for Sustainable Agriculture) 🛰️
+MIZU is project that was build during CLTP training in Japana in August, 2025.
+
+## What is CLPT?
+CLPT stands for the CanSat Leader Training Program. It is an intensive hands-on training program organized by UNISEC (University Space Engineering Consortium), Japan.
+
+The program is designed to train trainers—meaning participants not only learn how to design, build, test, and launch small educational satellites (CanSats), but also how to teach others to do the same in their own countries or institutions.
+
+The 14th round of this training is coined as CLPT14 took place at Nihon University between 19 to 30 August 2025. This round of training was centred around the HEPTA-SAT training KIT  - a hands-on small satellite training kit developed by Professor Masahiko Yamazaki at Nihon University, in Japan.
+
+# Training Method
+This was a competnace based training with large percentage of time dedicated to the hands-on. The training was divided into three main parts. The first part involved  participants completing the six (6) practical labs in the first three days. The second part was project based learning where four teams were formed and each team developed a mission, desinged, implemented and tested/verified the satellite project. This included spending a full day sourcing the components for the mission from various shops in Tokyo. The last part was Teaching Practice where all participants were involved in training the students for two days.
+
+# MIZU Satellite  Mission
+-- TODO: @shohei kindly add the description of our satellite mission here
+
+# Our Team
+- Phanish Chandra
+- Ojas Jha
+- Shohei Aoki
+- Joseph Matiko
+Our team was supported by the following Tutorial Assitants
+- Debrupa Mondal
+- Yuzuki Kazato
+
 
 ## Contributors
 
 Thanks to everyone who helps build MIZU. Add your GitHub profile by opening a PR with your username.
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/shohei" title="shohei"><img src="https://avatars.githubusercontent.com/shohei?s=96" width="96" height="96" alt="shohei" /></a>
     <a href="https://github.com/phanishchandra" title="phanishchandra"><img src="https://avatars.githubusercontent.com/phanishchandra?s=96" width="96" height="96" alt="phanishchandra" /></a>
     <a href="https://github.com/OjasJha" title="OjasJha"><img src="https://avatars.githubusercontent.com/OjasJha?s=96" width="96" height="96" alt="OjasJha" /></a>
@@ -12,63 +36,3 @@ Thanks to everyone who helps build MIZU. Add your GitHub profile by opening a PR
 </p>
 
 For an automated contributor graph, visit the repository's "Contributors" page or see CONTRIBUTING.md for instructions.
-
-## Repositories
-
-Quick access to key repositories for MIZU. Click a tile to open the repo.
-
-<div style="display:flex;flex-wrap:wrap;gap:12px;">
-  <!-- Tile: main project -->
-  <div style="border:1px solid #e1e4e8;border-radius:6px;padding:12px;width:300px;">
-    <a href="https://github.com/UNISEC-TZ/cltp14-mizu" style="font-weight:600;font-size:16px;color:#0366d6;text-decoration:none;">UNISEC-TZ / cltp14-mizu</a>
-    <p style="margin:8px 0 6px;color:#586069;font-size:13px;">Main project repository for the MIZU satellite systems and coordination.</p>
-    <img src="https://img.shields.io/github/stars/UNISEC-TZ/cltp14-mizu?style=social" alt="stars" />
-    <img src="https://img.shields.io/github/forks/UNISEC-TZ/cltp14-mizu" alt="forks" />
-    <img src="https://img.shields.io/github/issues/UNISEC-TZ/cltp14-mizu" alt="issues" />
-  </div>
-
-  <!-- Tile: flight firmware -->
-  <div style="border:1px solid #e1e4e8;border-radius:6px;padding:12px;width:300px;">
-    <a href="https://github.com/jwmdev/firmware" style="font-weight:600;font-size:16px;color:#0366d6;text-decoration:none;">jwmdev / firmware</a>
-    <p style="margin:8px 0 6px;color:#586069;font-size:13px;">Satellite flight software and payload firmware.</p>
-    <img src="https://img.shields.io/github/stars/jwmdev/firmware?style=social" alt="stars" />
-    <img src="https://img.shields.io/github/languages/top/jwmdev/firmware" alt="language" />
-    <img src="https://img.shields.io/github/issues/jwmdev/firmware" alt="issues" />
-  </div>
-
-  <!-- Tile: ground station -->
-  <div style="border:1px solid #e1e4e8;border-radius:6px;padding:12px;width:300px;">
-    <a href="https://github.com/jwmdev/ground-station" style="font-weight:600;font-size:16px;color:#0366d6;text-decoration:none;">jwmdev / ground-station</a>
-    <p style="margin:8px 0 6px;color:#586069;font-size:13px;">Ground station software for telemetry, commanding and data downlink.</p>
-    <img src="https://img.shields.io/github/stars/jwmdev/ground-station?style=social" alt="stars" />
-    <img src="https://img.shields.io/github/forks/jwmdev/ground-station" alt="forks" />
-    <img src="https://img.shields.io/github/license/jwmdev/ground-station" alt="license" />
-  </div>
-
-  <!-- Tile: data pipeline -->
-  <div style="border:1px solid #e1e4e8;border-radius:6px;padding:12px;width:300px;">
-    <a href="https://github.com/phanishchandra/data-pipeline" style="font-weight:600;font-size:16px;color:#0366d6;text-decoration:none;">phanishchandra / data-pipeline</a>
-    <p style="margin:8px 0 6px;color:#586069;font-size:13px;">Processing and analytics pipeline for satellite telemetry and payload data.</p>
-    <img src="https://img.shields.io/github/stars/phanishchandra/data-pipeline?style=social" alt="stars" />
-    <img src="https://img.shields.io/github/languages/top/phanishchandra/data-pipeline" alt="language" />
-    <img src="https://img.shields.io/github/issues/phanishchandra/data-pipeline" alt="issues" />
-  </div>
-
-  <!-- Tile: documentation -->
-  <div style="border:1px solid #e1e4e8;border-radius:6px;padding:12px;width:300px;">
-    <a href="https://github.com/OjasJha/docs" style="font-weight:600;font-size:16px;color:#0366d6;text-decoration:none;">OjasJha / docs</a>
-    <p style="margin:8px 0 6px;color:#586069;font-size:13px;">Project documentation, tutorials and contributor guides.</p>
-    <img src="https://img.shields.io/github/stars/OjasJha/docs?style=social" alt="stars" />
-    <img src="https://img.shields.io/github/last-commit/OjasJha/docs" alt="last commit" />
-    <img src="https://img.shields.io/github/license/OjasJha/docs" alt="license" />
-  </div>
-
-  <!-- Tile: examples / templates -->
-  <div style="border:1px solid #e1e4e8;border-radius:6px;padding:12px;width:300px;">
-    <a href="https://github.com/UNISEC-TZ/mizu-examples" style="font-weight:600;font-size:16px;color:#0366d6;text-decoration:none;">UNISEC-TZ / mizu-examples</a>
-    <p style="margin:8px 0 6px;color:#586069;font-size:13px;">Example scripts, integrations and template configs for rapid setup.</p>
-    <img src="https://img.shields.io/github/stars/UNISEC-TZ/mizu-examples?style=social" alt="stars" />
-    <img src="https://img.shields.io/github/forks/UNISEC-TZ/mizu-examples" alt="forks" />
-    <img src="https://img.shields.io/github/issues/UNISEC-TZ/mizu-examples" alt="issues" />
-  </div>
-</div>
